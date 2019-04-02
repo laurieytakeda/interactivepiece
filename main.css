@@ -1,0 +1,19 @@
+body {
+  background-color: #FFEBE1;
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+
+h1 {
+  color: #FCC77F;
+  padding: 20px 0px 10px 0px;
+  text-align: center;
+}
+
+a {
+  color: #A0C9FD;
+  text-decoration: none;
+}
