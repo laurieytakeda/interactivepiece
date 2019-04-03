@@ -1,19 +1,26 @@
 body {
-  background-color: #FFEBE1;
-  margin: 30px auto;
+  background-color: #FDEACF;
+  margin: 25px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 30px 20px;
+  line-height: 2;
+  padding: 25px 10px;
 }
 
 h1 {
-  color: #FCC77F;
-  padding: 20px 0px 10px 0px;
+  color: #A0C9FD;
+  padding: 10px 0px 10px 0px;
   text-align: center;
 }
 
 a {
-  color: #A0C9FD;
+  color: #FCC77F;
   text-decoration: none;
 }
+
+p {
+  text-align: center;
+  color: #269AE7;
+}
+
+<img align="middle">
